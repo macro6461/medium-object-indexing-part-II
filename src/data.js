@@ -23,7 +23,7 @@ const groups = [
    {
     id: 738, 
     name: 'EastCoastFloofs', 
-    isPrivate: false,
+    isPrivate: true,
     users: [10453]
    }
 ]
